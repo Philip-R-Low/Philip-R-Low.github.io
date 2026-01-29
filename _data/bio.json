@@ -33,7 +33,7 @@
       "studyType": "B.S.",
       "startDate": "2025-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Software Engineering", "Number Theory"
       ]
     },
     {
@@ -41,11 +41,21 @@
       "area": "Computer Science (did not finish)",
       "startDate": "2019-09-01",
       "endDate": "2025-01-31",
-      "courses": [
+      "courses": [ "Linear Algebra", "Vector Calculus", "Abstract Algebra", "Topology", "Algorithms & Data Structures", "Computability & Complexity", "Neural Networks", "Programing Language Design & Implementation"
       ]
     }
   ],
   "work": [
+    {
+      "position": "Private Tutor",
+      "startDate": "2026-01-01-14",
+      "endDate": "Present",
+      "summary": "Private mathematics tutor for UH students",
+      "highlights": [
+        "Guide students through mathematic instruction, aide in understanding of material",
+        "Reveiwing student homework, ensuring they learn the concepts and are able to apply them"
+      ]
+    }
   ],
   "volunteer": [
     {
