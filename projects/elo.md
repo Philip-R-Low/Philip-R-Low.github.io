@@ -7,7 +7,7 @@ date: 2022
 published: true
 labels:
   - Python
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "I made a python program to automatically calculate an elo score for professional League of Legends teams."
 ---
 <img width="400px" src="../img/elo/Season3ChampionshipSeries.webp">
 
