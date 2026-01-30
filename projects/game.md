@@ -7,7 +7,7 @@ date: 2022
 published: true
 labels:
   - Python
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A text adventure game that I developed for CSci 121."
 ---
 
 My first proper computer science course was at Reed University in the Spring of 2022. The course was an introduction to the basics of programming and taught in Python. The class’s final project, to test our skills at Object Oriented Programming, was to create a game. We were given some starter code that had basic classes for Rooms, Enemies, the Player character, and a main game loop printing actions into the console like old school text based adventures. We were then given a list of possible mechanics to implement with a score value based on how hard they expected implementation to be. However, to encourage creativity and go beyond base expectations, we were also allowed to come up with our own features for points provided we justified why we thought they were hard enough to warrant the score. I admit I don’t remember nor have the ability to find what the final point value was attributed to an A on the project, but I believe it was somewhere between 25 and 40. Working by myself for a month, I finished with a point value of 51.
