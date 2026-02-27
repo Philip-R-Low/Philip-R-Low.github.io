@@ -31,6 +31,6 @@ For those not in the web design or software engineering spaces, it is probably s
 
 # So powerful it's (almost) foolproof
 
-Below is a mock up I made with Bootstrap 5 of a website (presumably an older design of their website) for [the Maui Brewing Company](https://mauibrewingco.com/) for an assignment earlier today. While the recreation is not 1-to-1, consider that this took under an hour to make. It also was made by me, and to be honest, I’m actually not (yet) very good with actually using Bootstrap 5.
+Below is a mock up I made with Bootstrap 5 of a website (presumably an older design of their website) for [the Maui Brewing Company](https://mauibrewingco.com/) for an assignment earlier today. While the page isn't perfect, consider that this took under an hour to make. It also was made by me, and to be honest, I’m actually not (yet) all that good with actually using Bootstrap 5.
 
 <img src="../img/uiFrameworks/maui_brewing_wod.png" width="70%">
