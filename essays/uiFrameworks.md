@@ -29,7 +29,7 @@ Tangent aside, the purpose of showing this website is to show why ui frameworks 
 
 For those not in the web design or software engineering spaces, it is probably sufficient to use tools like [Squarespace](https://www.squarespace.com/), [WordPress](https://wordpress.com/) or other similar tools. They offer services that let you customize your website plenty well, and even offer services like hosting servers. However if you want to get into the nitty gritty of it, you really should try to use HTML and CSS libraries directly, such as [Bootstrap 5](https://getbootstrap.com/). There are a slew of other libraries, as I understand them, most of them work rather similarly, and most will get the job done. These tools are an absolute life saver.
 
-# So powerful it's (almost) foolproof
+### So powerful it's (almost) foolproof
 
 Below is a mock up I made with Bootstrap 5 of a website (presumably an older design of their website) for [the Maui Brewing Company](https://mauibrewingco.com/) for an assignment earlier today. While the page isn't perfect, consider that this took under an hour to make. It also was made by me, and to be honest, I’m actually not (yet) all that good with actually using Bootstrap 5.
 
