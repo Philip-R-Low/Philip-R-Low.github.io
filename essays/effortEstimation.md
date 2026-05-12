@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Time Track? More Like Time Wasting"
+title: "Time Tracking? More Like Time Wasting"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-11
 published: true
@@ -20,7 +20,7 @@ Time estimates did not start off on a strong foot. Largely, this was due to the 
 
 <p align="center">
     <img width="400px" src="../img/effortEstimation/car-crash.jpg">
-    A visual metaphor
+    <br>A visual metaphor
 </p>
 
 ### Static Shock
@@ -28,7 +28,7 @@ Another example of my estimates being atrocious was when I tried to get the card
 
 <p align="center">
     <img width="400px" src="../img/effortEstimation/exampleEventCard.png">
-    An example of the event cards
+    <br>An example of the event cards
 </p>
 
 ### The Closest Tracking Got to Being Useful
