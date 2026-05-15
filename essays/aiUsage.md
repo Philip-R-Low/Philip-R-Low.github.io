@@ -42,9 +42,9 @@ While I would rather have you actually read what I had to say, I understand that
     1. I used Gemini for the 5 navbars wod out of desperation to get things done on time after putting the assignment off for too long. I could not get myself (or Gemini) to finish it. See the section titled "Procrastination or Depression, Whose to Say?".
     2. I used it on the test case writing assignment as it was mandatory. I still put more effort into the problem than Gemini did. See the section "The One Anti-AI Assignment".
 2. In-class Practice WODs
-    + I did not use Ai in these assignments because I wanted to use them to learn.
+    + I did not use AI in these assignments because I wanted to use them to learn.
 3. In-class WODs
-    + While using Ai in these assignments may have slightly improved my grade, without using AI in these assignments I passed all but three of these, and one of those three failures was on a note so small I spent half a month trying to get an explanation why it was a failing grade. Honestly failing someone for using a magic number before the section on coding standards is stupid in my opinion.
+    + While using AI in these assignments may have slightly improved my grade, without using AI in these assignments I passed all but three of these, and one of those three failures was on a note so small I spent half a month trying to get an explanation why it was a failing grade. Honestly failing someone for using a magic number before the section on coding standards is stupid in my opinion.
 4. Essays
     + I would rather die. Seriously though, the mere thought of getting an AI to do that kind of writing makes me physically sick. And that's not just because most professors would give an F for even thinking about it. I find pushing a form of self expression off on an AI to be reprehensible.
 5. Final project
