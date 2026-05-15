@@ -6,6 +6,8 @@ title: "I like ui Frameworks even if they don't like me"
 date: 2026-02-26
 published: true
 labels:
+  - Software Engineering
+  - Web Development
 ---
 ## Mobile websites used to suck
 

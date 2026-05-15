@@ -6,7 +6,7 @@
     "email": "philipl3@hawaii.edu",
     "phone": "808-341-8382",
     "website": "https://philip-r-low.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2026 or Spring, 2027.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2027.",
     "location": { "address": "", "postalCode": "96821", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "philip-r-low", "url": "http://github.com/Philip-R-Low" },
@@ -16,14 +16,14 @@
   "interests": [
     { "name": "Interactive media" },
     { "name": "Computation Theory" },
-    { "name": "Mathmatics" },
+    { "name": "Mathematics" },
     { "name": "Puzzles" },
     { "name": "Reading" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Python", "Javascript", "Assembly", "oCaml" ]
+      "keywords": [ "TypeScript", "Next.jS", "Bootstrap", "Prisma ORM", "react", "C", "C++", "Python", "Javascript", "Assembly", "oCaml" ]
     }
   ],
   "education": [
@@ -42,7 +42,7 @@
       "area": "Computer Science (did not finish)",
       "startDate": "2019-09-01",
       "endDate": "2025-01-31",
-      "courses": [ "Linear Algebra", "Vector Calculus", "Abstract Algebra", "Topology", "Algorithms & Data Structures", "Computability & Complexity", "Neural Networks", "Programing Language Design & Implementation"
+      "courses": [ "Linear Algebra", "Vector Calculus", "Abstract Algebra", "Topology", "Algorithms & Data Structures", "Computability & Complexity", "Neural Networks", "Programming Language Design & Implementation"
       ]
     }
   ],
@@ -54,7 +54,7 @@
       "summary": "Private mathematics tutor for UH students",
       "highlights": [
         "Guide students through mathematic instruction, aide in understanding of material",
-        "Reveiwing student homework, ensuring they learn the concepts and are able to apply them"
+        "Reviewing student homework, ensuring they learn the concepts and are able to apply them"
       ]
     }
   ],
