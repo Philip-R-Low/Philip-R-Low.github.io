@@ -5,6 +5,7 @@ title: "Design Patterns - I still don't get them."
 # All dates must be YYYY-MM-DD format!
 date: 2026-04-30
 published: true
+labels:
   - Software Engineering
   - Learning
 ---
