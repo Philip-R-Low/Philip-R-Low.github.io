@@ -14,7 +14,7 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
+    { "name": "Interactive Media" },
     { "name": "Computation Theory" },
     { "name": "Mathematics" },
     { "name": "Puzzles" },
@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "TypeScript", "Next.jS", "Bootstrap", "Prisma ORM", "react", "C", "C++", "Python", "Javascript", "Assembly", "oCaml" ]
+      "keywords": [ "TypeScript", "Next.js", "Bootstrap", "Prisma ORM", "react", "C", "C++", "Python", "Javascript", "Assembly", "oCaml" ]
     }
   ],
   "education": [

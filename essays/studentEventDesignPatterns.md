@@ -6,6 +6,7 @@ title: "Design Patterns - I still don't get them."
 date: 2026-04-30
 published: true
   - Software Engineering
+  - Learning
 ---
 
 ## Computer Scientists reinvented the wheel again
@@ -25,5 +26,5 @@ More relevant here, however, was that there was one feature (or rather lake ther
 
 <p align="center">
   <img height="500px" class="float-center" src="../img/studentEventDesignPatterns/bugConsole.png">
-  </br> The swarm of bugs
+  <br>The swarm of bugs
 </p>
