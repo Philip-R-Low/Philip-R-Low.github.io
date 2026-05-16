@@ -4,7 +4,7 @@ type: project
 image: img/naturecenter/naturecenterlogo.jpg
 title: "Hawaii Nature Center"
 date: 2019
-published: true
+published: false
 labels:
   - Volunteer Work
 summary: "I volunteered 300 hours at the Hawaii Nature Center"

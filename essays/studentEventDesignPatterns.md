@@ -23,4 +23,7 @@ Unfortunately, like all plans, our project plans did not survive first contact w
 
 More relevant here, however, was that there was one feature (or rather lake there of) in Bowfolios that very much conflicted with our plans. We wanted to implement interactive buttons on the all events pages that modify the data displayed and the data in the database. For example, we wanted to let users like and dislike events, and to have those buttons update the likes and dislikes in the database in real time. We also wanted to let users filter what events show up on the all events page, to find events of their interests. However, the issue we faced is that the design patterns of Bowfolios only covered static, asynchronous data loading, with all client side pages dedicated to adding or modifying database objects. This meant when we first tried to implement our events page loading data from the database the results were... not ideal. It took a while to search to find a design pattern that would actually work which at time of writing still hasn't been fully implemented.
 
-<img height="500px" src="../img/studentEventDesignPatterns/bugConsole.png">
+<p align="center">
+  <img height="500px" class="float-center" src="../img/studentEventDesignPatterns/bugConsole.png">
+  </br> The swarm of bugs
+</p>

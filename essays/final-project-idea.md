@@ -26,9 +26,10 @@ Student Events include time happening, review system (Like/Dislike or Review by 
 - Your Events Page
 - Log in/Signup Page
 
-<img width="500px" class="float-center" src="../img/final-project-idea/sld_events_screenshot.png">
-
-The image above is an example of what the All Events Page and Your Events Page might look like, [based on an existing student life events webpage](https://manoa.hawaii.edu/studentlife/events/)
+<p align="center">
+  <img width="500px" class="float-center" src="../img/final-project-idea/sld_events_screenshot.png">
+  <br>The image above is an example of what the All Events Page and Your Events Page might look like, [based on an existing student life events webpage](https://manoa.hawaii.edu/studentlife/events/)
+</p>
 
 # Use Case Ideas:
 - Users can add events to their calendar

@@ -4,7 +4,7 @@ type: essay
 title: "There's more than one way to write a smart question"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-29
-published: true
+published: false
   - Software Engineering
   - Learning
 ---
